@@ -8,6 +8,3 @@
 # So if a pull request only touches javascript files, only these owners
 # will be requested to review.
 *.js    @magnologan @ghscd
-
-# You can also use email addresses if you prefer.
-docs/*  docs@example.com
